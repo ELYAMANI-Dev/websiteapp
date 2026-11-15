@@ -1,5 +1,5 @@
-# BESNARD CHRISTIAN
+# TECHMONKEY Business Manager
 
-Flutter Android app for local operations tracking across quality control, equipment checkout, shipment logging, and compliance reporting.
+Flutter app for a modern service business focused on operations visibility, daily tracking, and work progress monitoring.
 
-The app stores records on the device only. It does not declare Android permissions, request operating system access, call external APIs, or provide cloud sync.
+The app keeps records on the device only, with a local-first workflow designed for quick operational management without cloud dependencies.

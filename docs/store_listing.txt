@@ -1,13 +1,13 @@
 App name
-BESNARD CHRISTIAN
+TECHMONKEY
 
 Short description
-Track quality checks, equipment, shipments, and compliance records locally.
+Manage operations, projects, and daily business workflows from one place.
 
 Full description
-BESNARD CHRISTIAN helps operations teams keep daily business controls organized without accounts or cloud sync. The app combines quality control checklists, equipment checkout tracking, shipment logs, and compliance reporting in one focused mobile workspace.
+TECHMONKEY helps founders, managers, and service teams track operational work with clarity and speed. The app combines daily task management, operational record tracking, progress monitoring, and a business-ready dashboard in one focused mobile workflow.
 
-Create local records, assign responsible people, track due windows, update progress, and review status from dashboard and reporting views. Records stay on the device so teams can manage routine operational evidence with a simple, repeatable workflow.
+Create local records, assign responsibility, monitor due work, update progress, and review performance from a simple, modern overview. Records stay on the device so teams can stay organized without creating account friction or relying on cloud sync.
 
 Category
 Business
