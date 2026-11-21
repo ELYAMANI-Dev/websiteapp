@@ -1,4 +1,4 @@
-# TECHMONKEY Business Manager
+# EXTRA NOUVELLE Business Manager
 
 Flutter app for a modern service business focused on operations visibility, daily tracking, and work progress monitoring.
 

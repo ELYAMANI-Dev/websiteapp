@@ -1,6 +1,6 @@
-using $gpc-app-builder  create this app
-app title: BESNARD CHRISTIAN
+using $gpc-app-builder create this app
+app title: EXTRA NOUVELLE
 app idea: An operations-focused app offering quality control checklist, equipment checkout, shipment log, and compliance reporting to streamline daily business tasks.
-company name: BESNARD CHRISTIAN
-email address: [email to be provided later]
-the two icon and featured graphics contained in docs folder
+company name: EXTRA NOUVELLE
+email address: contact@extranouvelle.site
+phone: +212787438187

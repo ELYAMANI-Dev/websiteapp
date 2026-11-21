@@ -1,20 +1,20 @@
-Privacy Policy for TECHMONKEY
+Privacy Policy for EXTRA NOUVELLE
 
 Effective date: November 15, 2026
 
-TECHMONKEY is provided by TechMonkey. This policy explains how the mobile app handles information.
+EXTRA NOUVELLE is provided by Extra Nouvelle. This policy explains how the mobile app handles information.
 
 Information handled by the app
 The app allows users to save operational records, task notes, work progress, project follow-up entries, and local business preferences. This information is stored on the device using local app storage.
 
 No account or cloud sync
-TECHMONKEY does not require account registration. It does not upload operation records to a server, provide cloud sync, or sell personal information.
+EXTRA NOUVELLE does not require account registration. It does not upload operation records to a server, provide cloud sync, or sell personal information.
 
 Data collection
 The app does not collect analytics, advertising identifiers, precise location, contacts, photos, microphone input, payment information, or health data.
 
 Data sharing
-The app does not share user records or preferences with TechMonkey or third parties.
+The app does not share user records or preferences with Extra Nouvelle or third parties.
 
 Data retention and deletion
 Your records remain on your device until you delete the app data or uninstall the app. Removing the app from your device removes locally stored app records according to Android system behavior.
@@ -27,5 +27,6 @@ Because operation records are stored locally, protect your device with the secur
 
 Contact
 For privacy questions or support, contact:
-TechMonkey
-contact@techmonkey.site
+Extra Nouvelle
+contact@extranouvelle.site
+Phone: +212787438187
