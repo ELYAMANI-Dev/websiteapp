@@ -1,4 +1,4 @@
-# TECHMONKEY Business Manager
+# CHRONO COMPANY Business Manager
 
 Flutter app for a modern service business focused on operations visibility, daily tracking, and work progress monitoring.
 

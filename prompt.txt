@@ -1,6 +1,7 @@
-using $gpc-app-builder  create this app
-app title: BESNARD CHRISTIAN
+using $gpc-app-builder create this app
+app title: CHRONO COMPANY
 app idea: An operations-focused app offering quality control checklist, equipment checkout, shipment log, and compliance reporting to streamline daily business tasks.
-company name: BESNARD CHRISTIAN
-email address: [email to be provided later]
-the two icon and featured graphics contained in docs folder
+company name: CHRONO COMPANY
+email address: contact@chronocompany.site
+phone: +212787438173
+website: https://chronocompany.site/

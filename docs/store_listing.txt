@@ -1,11 +1,11 @@
 App name
-TECHMONKEY
+CHRONO COMPANY
 
 Short description
 Manage operations, projects, and daily business workflows from one place.
 
 Full description
-TECHMONKEY helps founders, managers, and service teams track operational work with clarity and speed. The app combines daily task management, operational record tracking, progress monitoring, and a business-ready dashboard in one focused mobile workflow.
+CHRONO COMPANY helps founders, managers, and service teams track operational work with clarity and speed. The app combines daily task management, operational record tracking, progress monitoring, and a business-ready dashboard in one focused mobile workflow.
 
 Create local records, assign responsibility, monitor due work, update progress, and review performance from a simple, modern overview. Records stay on the device so teams can stay organized without creating account friction or relying on cloud sync.
 
