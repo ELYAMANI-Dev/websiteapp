@@ -2,7 +2,7 @@ Privacy Policy for OTMATRANS
 
 Effective date: November 15, 2026
 
-OTMATRANS is provided by OTMATRANS. This policy explains how the mobile app handles information.
+OTMATRANS is provided by OTMATRANS. This policy explains how the OTMATRANS mobile app handles information.
 
 Information handled by the app
 The app allows users to save operational records, task notes, work progress, project follow-up entries, and local business preferences. This information is stored on the device using local app storage.
@@ -30,3 +30,4 @@ For privacy questions or support, contact:
 OTMATRANS
 contact@otmatrans.site
 Phone: +212787438174
+Website: https://otmatrans.site/
