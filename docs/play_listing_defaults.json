@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "applications": {
-    "com.rakmajasurfschool.business": {
+    "com.rakmajasurfschool.app": {
       "title": "RAKMAJA SURF SCHOOL",
       "short_description": "Manage operations, projects, and daily business workflows from one place.",
       "full_description": "RAKMAJA SURF SCHOOL helps founders, managers, and service teams track operational work with clarity and speed. The app combines daily task management, operational record tracking, progress monitoring, and a business-ready dashboard in one focused mobile workflow.\n\nCreate local records, assign responsibility, monitor due work, update progress, and review performance from a simple, modern overview. Records stay on the device so teams can stay organized without creating account friction or relying on cloud sync.",
