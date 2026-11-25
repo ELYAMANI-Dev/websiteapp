@@ -1,4 +1,4 @@
-package com.taziggg100.besnardchristian
+package com.rakmajasurfschool.app
 
 import io.flutter.embedding.android.FlutterActivity
 

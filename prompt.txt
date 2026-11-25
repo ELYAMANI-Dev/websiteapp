@@ -1,6 +1,7 @@
-using $gpc-app-builder  create this app
-app title: BESNARD CHRISTIAN
-app idea: An operations-focused app offering quality control checklist, equipment checkout, shipment log, and compliance reporting to streamline daily business tasks.
-company name: BESNARD CHRISTIAN
-email address: [email to be provided later]
-the two icon and featured graphics contained in docs folder
+using $gpc-app-builder create this app
+app title: RAKMAJA SURF SCHOOL
+app idea: A surf school operations and booking app for classes, equipment, student progress, and daily lesson planning.
+company name: RAKMAJA SURF SCHOOL
+email address: contact@rakmajasurfschool.site
+phone: +212787438199
+website: https://rakmajasurfschool.site/
