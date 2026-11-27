@@ -4,8 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 const bool _screenshotMode = bool.fromEnvironment('SCREENSHOT_MODE');
-const String appName = 'test';
-const String supportEmail = 'tees@test.com';
+const String appName = 'teste icon';
+const String supportEmail = 'kdk@gmail.com';
 
 const Color _navy = Color(0xFF06152E);
 const Color _blue = Color(0xFF0A7BC2);

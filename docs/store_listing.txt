@@ -1,18 +1,18 @@
 App name
-test
+teste icon
 
 Short description
 Manage operations, projects, and daily business workflows from one place.
 
 Full description
-test helps teams track operational work with clarity and speed. Create local records, assign responsibility, monitor progress, and review reports from a modern dashboard.
+teste icon helps teams track operational work with clarity and speed. Create local records, assign responsibility, monitor progress, and review reports from a modern dashboard.
 
 Category
 Business
 
 Website
-https://dkkfksd.com
+fddskf.ite
 
 Contact
-tees@test.com
-+00000000
+kdk@gmail.com
++302002

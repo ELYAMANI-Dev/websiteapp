@@ -1,13 +1,13 @@
-# test Business Manager
+# teste icon Business Manager
 
-test is a local-first operations management app.
+teste icon is a local-first operations management app.
 
 ## Contact
 
-- Email: tees@test.com
-- Phone: +00000000
-- Website: https://dkkfksd.com
+- Email: kdk@gmail.com
+- Phone: +302002
+- Website: fddskf.ite
 
 ## Android package
 
-`com.test.business`
+`tes.iocn.kkk`

@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "applications": {
-    "com.test.business": {
-      "title": "test",
+    "tes.iocn.kkk": {
+      "title": "teste icon",
       "short_description": "Manage operations, projects, and daily business workflows from one place.",
-      "full_description": "test helps teams track operational work with clarity and speed. Create local records, assign responsibility, monitor progress, and review reports from a modern dashboard.",
+      "full_description": "teste icon helps teams track operational work with clarity and speed. Create local records, assign responsibility, monitor progress, and review reports from a modern dashboard.",
       "source_screenshots": [
         "docs/screens/1.png",
         "docs/screens/2.png",
         "docs/screens/3.png"
       ],
-      "generated_from": "test product documentation and store listing metadata",
+      "generated_from": "teste icon product documentation and store listing metadata",
       "generated_at": "2026-01-01T00:00:00.000000+00:00"
     }
   }
