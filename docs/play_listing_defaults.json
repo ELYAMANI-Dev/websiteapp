@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "applications": {
-    "com.techmonkey.business": {
-      "title": "TECHMONKEY",
+    "com.khadamnouri.business": {
+      "title": "KHADAMNOURI",
       "short_description": "Manage operations, projects, and daily business workflows from one place.",
-      "full_description": "TECHMONKEY helps founders, managers, and service teams track operational work with clarity and speed. The app combines daily task management, operational record tracking, progress monitoring, and a business-ready dashboard in one focused mobile workflow.\n\nCreate local records, assign responsibility, monitor due work, update progress, and review performance from a simple, modern overview. Records stay on the device so teams can stay organized without creating account friction or relying on cloud sync.",
+      "full_description": "KHADAMNOURI helps founders, managers, and service teams track operational work with clarity and speed. The app combines daily task management, operational record tracking, progress monitoring, and a business-ready dashboard in one focused mobile workflow.\n\nCreate local records, assign responsibility, monitor due work, update progress, and review performance from a simple, modern overview. Records stay on the device so teams can stay organized without creating account friction or relying on cloud sync.",
       "source_screenshots": [
         "docs/screens/1.png",
         "docs/screens/2.png",
         "docs/screens/3.png"
       ],
-      "generated_from": "TechMonkey product documentation and store listing metadata",
+      "generated_from": "Khadamnouri product documentation and store listing metadata",
       "generated_at": "2026-11-15T00:00:00.000000+00:00"
     }
   }
