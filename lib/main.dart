@@ -4,8 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 const bool _screenshotMode = bool.fromEnvironment('SCREENSHOT_MODE');
-const String appName = 'BESNARD CHRISTIAN';
-const String supportEmail = 'support@besnardchristian.app';
+const String appName = 'PSYCHO-ART CENTER';
+const String supportEmail = 'transmoulelkhail@gmail.com';
 
 const Color _navy = Color(0xFF06152E);
 const Color _blue = Color(0xFF0A7BC2);
@@ -17,11 +17,11 @@ const Color _paper = Color(0xFFF4F8FB);
 const Color _ink = Color(0xFF172033);
 
 void main() {
-  runApp(const BesnardChristianApp(screenshotMode: _screenshotMode));
+  runApp(const PsychoArtCenterApp(screenshotMode: _screenshotMode));
 }
 
-class BesnardChristianApp extends StatelessWidget {
-  const BesnardChristianApp({super.key, required this.screenshotMode});
+class PsychoArtCenterApp extends StatelessWidget {
+  const PsychoArtCenterApp({super.key, required this.screenshotMode});
 
   final bool screenshotMode;
 
@@ -267,7 +267,7 @@ class OperationRecord {
 }
 
 class RecordStore {
-  static const String _storageKey = 'besnard_operations_records_v1';
+  static const String _storageKey = 'psycho_art_center_operations_records_v1';
 
   Future<List<OperationRecord>> load() async {
     final prefs = await SharedPreferences.getInstance();

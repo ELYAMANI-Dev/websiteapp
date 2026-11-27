@@ -1,4 +1,4 @@
-import 'package:besnard_christian/main.dart';
+import 'package:psycho_art_center/main.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shared_preferences/shared_preferences.dart';
@@ -9,7 +9,7 @@ void main() {
   testWidgets('shows seeded operations dashboard and navigates to work log', (
     tester,
   ) async {
-    await tester.pumpWidget(const BesnardChristianApp(screenshotMode: true));
+    await tester.pumpWidget(const PsychoArtCenterApp(screenshotMode: true));
 
     expect(find.text('Operations control'), findsOneWidget);
     expect(find.text('Open records'), findsOneWidget);
@@ -24,7 +24,7 @@ void main() {
   testWidgets('creates a local operations record', (tester) async {
     SharedPreferences.setMockInitialValues({});
 
-    await tester.pumpWidget(const BesnardChristianApp(screenshotMode: false));
+    await tester.pumpWidget(const PsychoArtCenterApp(screenshotMode: false));
     await tester.pumpAndSettle();
 
     await tester.tap(find.text('Work'));
