@@ -1,21 +1,18 @@
 App name
-PSYCHO-ART CENTER
+test
 
 Short description
 Manage operations, projects, and daily business workflows from one place.
 
 Full description
-PSYCHO-ART CENTER helps founders, managers, and service teams track operational work with clarity and speed. The app combines daily task management, operational record tracking, progress monitoring, and a business-ready dashboard in one focused mobile workflow.
-
-Create local records, assign responsibility, monitor due work, update progress, and review performance from a simple, modern overview. Records stay on the device so teams can stay organized without creating account friction or relying on cloud sync.
+test helps teams track operational work with clarity and speed. Create local records, assign responsibility, monitor progress, and review reports from a modern dashboard.
 
 Category
 Business
 
-
 Website
-https://psycho-art-center.netlify.app/
+https://dkkfksd.com
 
 Contact
-transmoulelkhail@gmail.com
-+393780528577
+tees@test.com
++00000000

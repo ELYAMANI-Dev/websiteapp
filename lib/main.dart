@@ -4,8 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 const bool _screenshotMode = bool.fromEnvironment('SCREENSHOT_MODE');
-const String appName = 'PSYCHO-ART CENTER';
-const String supportEmail = 'transmoulelkhail@gmail.com';
+const String appName = 'test';
+const String supportEmail = 'tees@test.com';
 
 const Color _navy = Color(0xFF06152E);
 const Color _blue = Color(0xFF0A7BC2);
@@ -267,7 +267,7 @@ class OperationRecord {
 }
 
 class RecordStore {
-  static const String _storageKey = 'psycho_art_center_operations_records_v1';
+  static const String _storageKey = 'test_operations_records_v1';
 
   Future<List<OperationRecord>> load() async {
     final prefs = await SharedPreferences.getInstance();

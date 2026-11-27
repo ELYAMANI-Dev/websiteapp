@@ -1,7 +1,7 @@
 using $gpc-app-builder create this app
-app title: PSYCHO-ART CENTER
+app title: test
 app idea: A creative wellness and art therapy operations app for sessions, activities, client progress, and daily center records.
-company name: PSYCHO-ART CENTER
-email address: transmoulelkhail@gmail.com
+company name: test
+email address: tees@test.com
 phone: +393780528577
 website: https://psycho-art-center.netlify.app/

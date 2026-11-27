@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "applications": {
-    "com.psychoartcenter.business": {
-      "title": "PSYCHO-ART CENTER",
+    "com.test.business": {
+      "title": "test",
       "short_description": "Manage operations, projects, and daily business workflows from one place.",
-      "full_description": "PSYCHO-ART CENTER helps founders, managers, and service teams track operational work with clarity and speed. The app combines daily task management, operational record tracking, progress monitoring, and a business-ready dashboard in one focused mobile workflow.\n\nCreate local records, assign responsibility, monitor due work, update progress, and review performance from a simple, modern overview. Records stay on the device so teams can stay organized without creating account friction or relying on cloud sync.",
+      "full_description": "test helps teams track operational work with clarity and speed. Create local records, assign responsibility, monitor progress, and review reports from a modern dashboard.",
       "source_screenshots": [
         "docs/screens/1.png",
         "docs/screens/2.png",
         "docs/screens/3.png"
       ],
-      "generated_from": "Psycho-Art Center product documentation and store listing metadata",
-      "generated_at": "2026-11-15T00:00:00.000000+00:00"
+      "generated_from": "test product documentation and store listing metadata",
+      "generated_at": "2026-01-01T00:00:00.000000+00:00"
     }
   }
 }

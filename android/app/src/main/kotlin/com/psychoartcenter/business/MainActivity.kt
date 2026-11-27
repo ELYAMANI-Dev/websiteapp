@@ -1,4 +1,4 @@
-package com.psychoartcenter.business
+package com.test.business
 
 import io.flutter.embedding.android.FlutterActivity
 
